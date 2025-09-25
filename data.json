@@ -84,16 +84,16 @@
       "photo": "img/Franco Parisi.webp",
       "bio": "Ingeniero comercial, académico y político. Se ha postulado en elecciones anteriores con una plataforma centrada en el populismo económico, la eliminación de intermediarios y el uso de las redes sociales para movilizar a sus seguidores. Su discurso busca una conexión directa con la ciudadanía, prometiendo soluciones disruptivas a los problemas económicos y sociales.",
       "proposals": [
-      { "title": "Simplificación Tributaria", "description": "Reforma fiscal orientada a eficiencia, eliminación de distorsiones y estímulo a la inversión." },
-      { "title": "Proactividad en Empleo y Competitividad", "description": "Programas orientados a crear empleo mediante incentivos a la productividad y modernización empresarial." },
-      { "title": "Educación y Formación Técnica", "description": "Impulso a formación técnica de calidad y vinculación con necesidades productivas regionales." },
-      { "title": "Salud con Privacidad y Eficiencia", "description": "Mezcla de gestión pública y mecanismos privados para mejorar tiempos de espera y calidad." },
-      { "title": "Inversión en Infraestructura Regional", "description": "Grandes proyectos de infraestructura para mejorar conectividad y descentralizar la economía." },
-      { "title": "Seguridad con Tecnología", "description": "Uso de tecnología y modernización institucional para combatir la delincuencia y crimen organizado." },
-      { "title": "Digitalización y Gobierno Eficiente", "description": "Digitalización total de servicios públicos, menos trámites y más transparencia." },
-      { "title": "Política Social Focalizada", "description": "Programas sociales más eficientes y focalizados para maximizar impacto por peso gastado." },
-      { "title": "Energía y Desarrollo", "description": "Políticas que favorezcan inversión energética eficiente y seguridad de suministro." },
-      { "title": "Apoyo al Emprendimiento Ciudadano", "description": "Facilitar acceso a capital y formación para emprendedores en todo el país." }
+      { "title": "Economía y Empleo", "description": "Reforma tributaria simplificada y estímulos para aumentar competitividad y empleo." },
+      { "title": "Seguridad Pública", "description": "Uso intensivo de tecnología y modernización policial para mejorar seguridad." },
+      { "title": "Salud", "description": "Modelo mixto público-privado con gestión más eficiente y reducción de esperas." },
+      { "title": "Educación", "description": "Impulso a la educación técnica y mayor vínculo con necesidades regionales." },
+      { "title": "Desigualdad y Pobreza", "description": "Programas sociales focalizados y evaluados en eficiencia." },
+      { "title": "Familia y Natalidad", "description": "Incentivos económicos a las familias mediante bonos y beneficios tributarios." },
+      { "title": "Medio Ambiente", "description": "Promover inversión energética diversificada y segura." },
+      { "title": "Descentralización", "description": "Proyectos de infraestructura regional como motor de crecimiento." },
+      { "title": "Gestión del Estado", "description": "Digitalización de todos los trámites y mayor transparencia." },
+      { "title": "Derechos e Inclusión", "description": "Enfoque en igualdad de oportunidades más que en cuotas." }
     ],
       "social": {
         "twitter": "https://twitter.com/fransicoparisi",
