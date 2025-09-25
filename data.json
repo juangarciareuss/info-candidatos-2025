@@ -24,7 +24,7 @@
       "party": "Partido Republicano",
       "coalition": "Republicanos",
       "age": 59,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jos%C3%A9_Antonio_Kast_visi%C3%B3n_presidencial_de_Chile_en_Icare_2021.jpg/800px-Jos%C3%A9_Antonio_Kast_visi%C3%B3n_presidencial_de_Chile_en_Icare_2021.jpg",
+      "photo": "img/Jose Antonio Kast.webp",
       "bio": "Abogado y político, fundador del Partido Republicano. Ha sido diputado por el distrito 24. Su plataforma política se centra en la defensa de los valores tradicionales, el orden público, la soberanía nacional y una economía de libre mercado con un Estado reducido.",
       "proposals": [
         { "title": "Control Migratorio y Fronteras", "description": "Implementación de una política migratoria estricta, con foco en la expulsión de inmigrantes ilegales y mayor control fronterizo." },
@@ -42,7 +42,7 @@
       "party": "Partido Comunista (PC)",
       "coalition": "Unidad por Chile",
       "age": 51,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jeannette_Jara.jpeg/800px-Jeannette_Jara.jpeg",
+      "photo": "img/Jeanette Jara.webp",
       "bio": "Administradora pública y abogada, exministra del Trabajo y Previsión Social. Ha ganado notoriedad por su rol en la reforma de pensiones y por su enfoque en la protección de los derechos laborales. Su plataforma se centra en el fortalecimiento de la seguridad social y el rol del Estado.",
       "proposals": [
         { "title": "Seguridad Social y Previsión", "description": "Creación de un sistema de pensiones solidario y público. Ampliación de la cobertura y beneficios del sistema de salud estatal." },
@@ -60,7 +60,7 @@
       "party": "Partido de la Gente (PDG)",
       "coalition": "Partido de la Gente",
       "age": 58,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Franco_Parisi_2021.jpg/800px-Franco_Parisi_2021.jpg",
+      "photo": "img/Franco Parisi.webp",
       "bio": "Ingeniero comercial, académico y político. Se ha postulado en elecciones anteriores con una plataforma centrada en el populismo económico, la eliminación de intermediarios y el uso de las redes sociales para movilizar a sus seguidores. Su discurso busca una conexión directa con la ciudadanía, prometiendo soluciones disruptivas a los problemas económicos y sociales.",
       "proposals": [
         { "title": "Libertad Económica y Desregulación", "description": "Reducción de impuestos, eliminación de la burocracia y fomento del emprendimiento. Promueve un modelo económico sin intervención estatal." },
@@ -78,7 +78,7 @@
       "party": "Partido Nacional Libertario (PNL)",
       "coalition": "Cambio por Chile",
       "age": 50,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Johannes_Kaiser_2022.jpg/800px-Johannes_Kaiser_2022.jpg",
+      "photo": "img/Johannes Kaiser.webp",
       "bio": "Político y youtuber, conocido por su postura de extrema derecha. Ha sido diputado y su plataforma se centra en la defensa de las libertades individuales, el control de la inmigración, la reducción del tamaño del Estado y una fuerte crítica al progresismo.",
       "proposals": [
         { "title": "Reforma Tributaria", "description": "Propone una reforma tributaria con el objetivo de reducir impuestos para incentivar el emprendimiento y la inversión privada." },
@@ -96,8 +96,7 @@
       "party": "Independiente",
       "coalition": "Independiente",
       "age": 64,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harold_Mayne-Nicholls_2020.jpg/800px-Harold_Mayne-Nicholls_2020.jpg",
-      "bio": "Periodista, exdirigente deportivo y candidato independiente. Su postulación ha recibido apoyo de figuras del centro político. Su carrera se ha centrado en la gestión y la administración, y su propuesta busca la eficiencia en el Estado y la búsqueda de acuerdos amplios en temas de interés nacional.",
+      "photo": "img/Harold Mayne-Nicholls.webp",
       "proposals": [
         { "title": "Modernización del Estado", "description": "Propone un Estado más eficiente y transparente, con foco en la digitalización de servicios y la desburocratización." },
         { "title": "Acuerdos Políticos", "description": "Búsqueda de consensos en temas clave como salud, educación y pensiones, promoviendo el diálogo entre los distintos sectores políticos." },
@@ -114,7 +113,7 @@
       "party": "Partido Progresista (PRO)",
       "coalition": "Independiente (con apoyo del PRO)",
       "age": 52,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Marco_Enr%C3%ADquez-Ominami_Gumucio.jpg/800px-Marco_Enr%C3%ADquez-Ominami_Gumucio.jpg",
+      "photo": "img/Marco Enríquez-Ominami.webp",
       "bio": "Cineasta, académico y político. Ha sido diputado y se ha postulado a la presidencia en múltiples ocasiones. Su plataforma se centra en la defensa de un modelo de desarrollo progresista, la reforma del sistema político y la justicia social.",
       "proposals": [
         { "title": "Reforma del Sistema Político", "description": "Propone cambios a la Constitución y al sistema electoral para hacerlo más representativo y participativo." },
@@ -132,7 +131,7 @@
       "party": "Unión Patriótica",
       "coalition": "Unión Patriótica",
       "age": 73,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Eduardo_Art%C3%A9s_2021.jpg/800px-Eduardo_Art%C3%A9s_2021.jpg",
+      "photo": "img/Eduardo Artés.webp",
       "bio": "Profesor y político de extrema izquierda. Ha sido candidato presidencial en varias ocasiones, representando una postura anticapitalista y antiimperialista. Su plataforma se basa en la defensa de los derechos de los trabajadores, la nacionalización de los recursos naturales y la lucha contra el sistema neoliberal.",
       "proposals": [
         { "title": "Nacionalización de Recursos", "description": "Propone la nacionalización de la minería, el agua y otros recursos naturales estratégicos para financiar programas sociales y de desarrollo." },
