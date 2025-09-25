@@ -9,16 +9,16 @@
       "photo": "img/Evelyn Matthei.webp",
       "bio": "Economista y política con una larga trayectoria en el servicio público. Ha sido Ministra del Trabajo y Previsión Social, senadora, diputada y alcaldesa de Providencia. Su carrera se ha caracterizado por un enfoque en la gestión fiscal, el orden público y la modernización del Estado.",
       "proposals": [
-      { "title": "Estímulo a la Recuperación Económica", "description": "Medidas focalizadas para mejorar inversión, crecimiento y creación de empleos formales, con diálogo público-privado." },
-      { "title": "Seguridad y Orden Público", "description": "Fortalecimiento de policías, impulso a inteligencia contra el crimen y mejoras en coordinación judicial." },
-      { "title": "Apoyo a Pymes y Emprendimiento", "description": "Facilitación de crédito y reducción de trámites para pymes, con incentivos a la formalización." },
-      { "title": "Salud con Eficiencia", "description": "Optimización de gestión hospitalaria, inversión en atención primaria y reducción de listas de espera." },
-      { "title": "Educación Técnica y Formación Laboral", "description": "Impulso a la educación técnica, alianzas con empresas y fortalecimiento de la empleabilidad juvenil." },
-      { "title": "Modernización del Estado", "description": "Digitalización de trámites, mejora de la eficiencia y transparencia en la administración pública." },
-      { "title": "Política Social Focalizada", "description": "Subsidios y programas sociales dirigidos a los más vulnerables y con métricas de resultados." },
-      { "title": "Descentralización Responsable", "description": "Mayor autonomía fiscal y técnica para gobiernos regionales con controles y metas de gestión." },
-      { "title": "Energía y Recursos", "description": "Políticas que promuevan inversiones en energía con seguridad jurídica para atraer capital." },
-      { "title": "Fortalecimiento Institucional", "description": "Reformas para mejorar coordinación entre instituciones y combatir la corrupción." }
+      { "title": "Economía y Empleo", "description": "Plan de recuperación económica con foco en inversión, empleos formales y apoyo a pymes." },
+      { "title": "Seguridad Pública", "description": "Modernizar a Carabineros, mejorar la inteligencia policial y coordinar con el sistema judicial." },
+      { "title": "Salud", "description": "Fortalecer la atención primaria y optimizar gestión hospitalaria para reducir listas de espera." },
+      { "title": "Educación", "description": "Impulsar la educación técnica y la formación laboral vinculada a empresas." },
+      { "title": "Desigualdad y Pobreza", "description": "Subsidios focalizados y programas sociales medibles en resultados." },
+      { "title": "Familia y Natalidad", "description": "Apoyo a mujeres trabajadoras con más salas cuna y permisos parentales equilibrados." },
+      { "title": "Medio Ambiente", "description": "Transición energética con seguridad jurídica para atraer inversión verde." },
+      { "title": "Descentralización", "description": "Mayor autonomía fiscal y técnica a regiones con control de resultados." },
+      { "title": "Gestión del Estado", "description": "Digitalización de servicios públicos y reducción de burocracia." },
+      { "title": "Derechos e Inclusión", "description": "Políticas de equidad salarial y combate a la violencia de género." }
     ],
       "social": {
         "twitter": "https://twitter.com/evelynmatthei",
@@ -34,16 +34,16 @@
       "photo": "img/José Antonio Kast.webp",
       "bio": "Abogado y político, fundador del Partido Republicano. Ha sido diputado por el distrito 24. Su plataforma política se centra en la defensa de los valores tradicionales, el orden público, la soberanía nacional y una economía de libre mercado con un Estado reducido.",
       "proposals": [
-      { "title": "Control Migratorio y Fronteras", "description": "Blindaje fronterizo con tecnología, expulsión acelerada de inmigrantes ilegales y fortalecimiento de fiscalización migratoria." },
-      { "title": "Seguridad y Mano Dura", "description": "Endurecimiento de penas, creación de cárceles de máxima seguridad y estrategias para combatir el crimen organizado y el narcotráfico." },
-      { "title": "Defensa de la Familia y Valores", "description": "Políticas públicas que promuevan la familia tradicional, apoyo a la maternidad/paternidad y defensa de la vida desde la concepción." },
-      { "title": "Libertad Económica y Emprendimiento", "description": "Reducción de regulaciones, estímulos a pymes y promoción de un entorno pro-emprendimiento con menos intervención estatal." },
-      { "title": "Descentralización y Orden Territorial", "description": "Transferencia de competencias a regiones con enfoque en seguridad local y conservación del orden público." },
-      { "title": "Salud y Atención Primaria", "description": "Refuerzo de atención primaria y medidas para reducir listas de espera mediante gestión público-privada." },
-      { "title": "Educación con Meritocracia", "description": "Foco en calidad educativa, fortalecimiento de liceos técnicos y mayor autonomía para centros sostenedores." },
-      { "title": "Transición Energética con Seguridad", "description": "Impulso a energía doméstica segura y gradualidad en cierres de unidades, privilegiando seguridad del suministro." },
-      { "title": "Reforma del Estado y Eficiencia", "description": "Simplificación administrativa, reducción de trámites y enfoque en control de la migración irregular." },
-      { "title": "Protección a la Propiedad", "description": "Refuerzo de marcos legales para defender la propiedad privada y combatir tomas ilegales de terrenos." }
+      { "title": "Economía y Empleo", "description": "Reducir impuestos y regulaciones para atraer inversión, fortalecer pymes y generar empleos en el sector privado." },
+      { "title": "Seguridad Pública", "description": "Mano dura contra el delito, construcción de nuevas cárceles y expulsión inmediata de inmigrantes ilegales." },
+      { "title": "Salud", "description": "Ampliar la colaboración público-privada para reducir listas de espera y mejorar eficiencia hospitalaria." },
+      { "title": "Educación", "description": "Reforzar liceos técnicos, fomentar la meritocracia y permitir mayor libertad de elección para las familias." },
+      { "title": "Desigualdad y Pobreza", "description": "Promover movilidad social a través de empleo y subsidios focalizados en familias vulnerables." },
+      { "title": "Familia y Natalidad", "description": "Bonos maternales y políticas que refuercen la familia como núcleo central de la sociedad." },
+      { "title": "Medio Ambiente", "description": "Promover energías limpias pero garantizando seguridad energética sin cierres abruptos de plantas." },
+      { "title": "Descentralización", "description": "Transferir competencias de seguridad y desarrollo a gobiernos regionales con control estricto." },
+      { "title": "Gestión del Estado", "description": "Reducción del gasto público y digitalización de trámites para simplificar el aparato estatal." },
+      { "title": "Derechos e Inclusión", "description": "Defender la igualdad ante la ley pero limitar políticas de cuotas e identidades de género." }
     ],
       "social": {
         "twitter": "https://twitter.com/joseantoniokast",
@@ -59,10 +59,17 @@
       "photo": "img/Jeannette Jara.webp",
       "bio": "Administradora pública y abogada, exministra del Trabajo y Previsión Social. Ha ganado notoriedad por su rol en la reforma de pensiones y por su enfoque en la protección de los derechos laborales. Su plataforma se centra en el fortalecimiento de la seguridad social y el rol del Estado.",
       "proposals": [
-        { "title": "Seguridad Social y Previsión", "description": "Creación de un sistema de pensiones solidario y público. Ampliación de la cobertura y beneficios del sistema de salud estatal." },
-        { "title": "Seguridad Pública con Enfoque Social", "description": "Fortalecimiento de las fuerzas policiales, modernización penitenciaria y combate al crimen organizado con una visión de integración social." },
-        { "title": "Desarrollo Económico", "description": "Impulso a la economía a través de la inversión pública y privada, con un enfoque en la redistribución y el crecimiento con equidad." }
-      ],
+      { "title": "Economía y Empleo", "description": "Aumento del salario mínimo y protección del empleo digno mediante políticas laborales activas." },
+      { "title": "Seguridad Pública", "description": "Enfoque en prevención social junto con fortalecimiento policial en barrios críticos." },
+      { "title": "Salud", "description": "Sistema público universal fortalecido y más recursos para atención primaria." },
+      { "title": "Educación", "description": "Más inversión en educación pública y eliminación de brechas entre colegios." },
+      { "title": "Desigualdad y Pobreza", "description": "Reforma tributaria progresiva para financiar programas sociales masivos." },
+      { "title": "Familia y Natalidad", "description": "Sistema nacional de cuidados y mayor apoyo estatal a trabajadoras." },
+      { "title": "Medio Ambiente", "description": "Transición energética justa con empleos verdes y protección a comunidades." },
+      { "title": "Descentralización", "description": "Mayor autonomía a regiones para gestionar vivienda, salud y educación." },
+      { "title": "Gestión del Estado", "description": "Participación ciudadana y fortalecimiento de derechos sociales." },
+      { "title": "Derechos e Inclusión", "description": "Avances en derechos de género, diversidad sexual y pueblos originarios." }
+    ],
       "social": {
         "twitter": "https://twitter.com/jeannettejara",
         "instagram": "https://www.instagram.com/jeannette_jara/"
@@ -102,16 +109,16 @@
       "photo": "img/Johannes Kaiser.webp",
       "bio": "Político y youtuber, conocido por su postura de extrema derecha. Ha sido diputado y su plataforma se centra en la defensa de las libertades individuales, el control de la inmigración, la reducción del tamaño del Estado y una fuerte crítica al progresismo.",
       "proposals": [
-      { "title": "Libertad Individual y Mercado", "description": "Promoción de mercados libres, reducción de regulaciones y énfasis en responsabilidad individual." },
-      { "title": "Seguridad y Orden Constitucional", "description": "Políticas de reestablecimiento del orden público y fortalecimiento de instituciones del Estado." },
-      { "title": "Reducción del Tamaño del Estado", "description": "Recorte de gasto público, simplificación administrativa y menor intervención en la economía." },
-      { "title": "Defensa de Valores Tradicionales", "description": "Políticas públicas que fomenten la familia tradicional y valores conservadores." },
-      { "title": "Educación basada en Mérito", "description": "Fomento a la educación con evaluación de resultados y estímulos a la excelencia." },
-      { "title": "Reforma Laboral Pro-Empresa", "description": "Medidas para flexibilizar mercado laboral con objetivo de generar empleo formal." },
-      { "title": "Soberanía y Control Fronterizo", "description": "Medidas para controlar inmigración irregular y proteger seguridad nacional." },
-      { "title": "Competitividad y Atracción de Capitales", "description": "Incentivos para inversión privada y reformas para mejorar clima de negocios." },
-      { "title": "Modernización Tecnológica del Estado", "description": "Digitalización de servicios públicos y eliminación de trámites innecesarios." },
-      { "title": "Protección de la Propiedad y Orden Público", "description": "Refuerzo de marcos legales para protección de la propiedad privada y combate a usurpaciones." }
+      { "title": "Economía y Empleo", "description": "Eliminar trabas al mercado y reducir drásticamente el tamaño del Estado." },
+      { "title": "Seguridad Pública", "description": "Restaurar orden público con mayor autonomía para fuerzas de seguridad." },
+      { "title": "Salud", "description": "Sistema mixto con competencia para mejorar eficiencia y calidad." },
+      { "title": "Educación", "description": "Basar la educación en mérito, competencia y libertad de elección." },
+      { "title": "Desigualdad y Pobreza", "description": "Enfoque en crecimiento económico más que en subsidios estatales." },
+      { "title": "Familia y Natalidad", "description": "Promoción de la familia tradicional y valores conservadores." },
+      { "title": "Medio Ambiente", "description": "Protección ambiental compatible con libertad de emprendimiento." },
+      { "title": "Descentralización", "description": "Autonomía regional limitada y bajo reglas estrictas de mercado." },
+      { "title": "Gestión del Estado", "description": "Recorte del gasto público y simplificación administrativa." },
+      { "title": "Derechos e Inclusión", "description": "Defensa de igualdad ante la ley sin políticas identitarias ni cuotas." }
     ],
       "social": {
         "twitter": "https://twitter.com/johanneskaiserb",
@@ -126,16 +133,16 @@
       "age": 64,
       "photo": "img/Harold Mayne-Nicholls.webp",
       "proposals": [
-      { "title": "Transparencia y Buen Gobierno", "description": "Énfasis en probidad pública, lucha contra la corrupción y modernización administrativa." },
-      { "title": "Desarrollo Deportivo y Social", "description": "Fomento del deporte como política social y de salud pública, con inversión en infraestructura local." },
-      { "title": "Seguridad Ciudadana Comunitaria", "description": "Políticas de prevención y trabajo comunitario con mejor coordinación policial y local." },
-      { "title": "Educación y Formación Cívica", "description": "Programas que incentiven civismo, formación ciudadana y educación en valores." },
-      { "title": "Apoyo a las Regiones y Deporte Local", "description": "Inversión en infraestructura regional y programas de desarrollo local vinculados al deporte." },
-      { "title": "Salud Preventiva", "description": "Promoción de programas preventivos y promoción de la actividad física para reducir gasto sanitario." },
-      { "title": "Modernización del Estado", "description": "Digitalización y mejora de procesos públicos con énfasis en eficacia y transparencia." },
-      { "title": "Empleo y Juventud", "description": "Políticas orientadas a la empleabilidad juvenil, formación dual y oportunidades laborales." },
-      { "title": "Cohesión Social", "description": "Programas que promuevan integración social y reducción de brechas locales." },
-      { "title": "Gestión Responsable de Recursos", "description": "Políticas de uso eficiente de recursos públicos y control en inversión estatal." }
+      { "title": "Economía y Empleo", "description": "Fomentar empleo juvenil y oportunidades a través del deporte y la cultura." },
+      { "title": "Seguridad Pública", "description": "Programas comunitarios de prevención y mejor coordinación policial." },
+      { "title": "Salud", "description": "Foco en prevención y programas de salud ligados al deporte." },
+      { "title": "Educación", "description": "Promover la formación cívica y la educación en valores ciudadanos." },
+      { "title": "Desigualdad y Pobreza", "description": "Apoyo a barrios vulnerables con programas de integración social." },
+      { "title": "Familia y Natalidad", "description": "Apoyos familiares a través de infraestructura deportiva y comunitaria." },
+      { "title": "Medio Ambiente", "description": "Uso responsable de recursos naturales con participación local." },
+      { "title": "Descentralización", "description": "Inversión en infraestructura deportiva y cultural regional." },
+      { "title": "Gestión del Estado", "description": "Transparencia y lucha activa contra la corrupción." },
+      { "title": "Derechos e Inclusión", "description": "Fomento de la cohesión social y la integración cultural." }
     ],
       "social": {
         "twitter": "https://twitter.com/hmnoficial",
@@ -151,16 +158,16 @@
       "photo": "img/Marco Enríquez-Ominami.webp",
       "bio": "Cineasta, académico y político. Ha sido diputado y se ha postulado a la presidencia en múltiples ocasiones. Su plataforma se centra en la defensa de un modelo de desarrollo progresista, la reforma del sistema político y la justicia social.",
       "proposals": [
-      { "title": "Reforma Tributaria y Justicia Económica", "description": "Reforma que aumente progresividad, combata la evasión y financie políticas sociales y productivas." },
-      { "title": "Innovación y Economía del Conocimiento", "description": "Fomento a I+D, educación en tecnología y apoyo a industrias creativas y digitales." },
-      { "title": "Democracia y Participación", "description": "Instituciones más abiertas, mecanismos de participación y mayor transparencia pública." },
-      { "title": "Seguridad Integral con Prevención", "description": "Estrategias combinadas de prevención social, modernización policial y reformas judiciales." },
-      { "title": "Salud Universal y Preventiva", "description": "Ampliación del acceso a prevención y atención, con énfasis en salud mental y atención primaria." },
-      { "title": "Transición Ecológica Justa", "description": "Políticas climáticas ambiciosas que retengan empleo y generen oportunidades en regiones." },
-      { "title": "Descentralización y Desarrollo Regional", "description": "Mayor autonomía y fondos para gobiernos regionales con planes de desarrollo local." },
-      { "title": "Educación Pública Renovada", "description": "Inversión en infraestructura escolar, formación docente y acceso equitativo a educación superior." },
-      { "title": "Modernización del Estado", "description": "Reformas para un Estado más eficiente, digital y cercano al ciudadano." },
-      { "title": "Protección Social Dinámica", "description": "Sistemas de apoyo adaptativos para desempleo, capacitación y reconversión laboral." }
+      { "title": "Economía y Empleo", "description": "Reforma fiscal para redistribuir riqueza e impulsar industrias digitales y creativas." },
+      { "title": "Seguridad Pública", "description": "Prevención social del delito y modernización tecnológica de las policías." },
+      { "title": "Salud", "description": "Sistema universal con foco en prevención y salud mental." },
+      { "title": "Educación", "description": "Mayor inversión en educación pública y acceso equitativo a la superior." },
+      { "title": "Desigualdad y Pobreza", "description": "Políticas de protección social adaptativas para desempleo y capacitación." },
+      { "title": "Familia y Natalidad", "description": "Incentivos parentales y ampliación de cuidados infantiles estatales." },
+      { "title": "Medio Ambiente", "description": "Transición ecológica ambiciosa con empleos verdes regionales." },
+      { "title": "Descentralización", "description": "Fondos regionales para desarrollo y autonomía territorial." },
+      { "title": "Gestión del Estado", "description": "Estado digital, eficiente y participativo." },
+      { "title": "Derechos e Inclusión", "description": "Políticas de diversidad sexual, pueblos originarios y mujeres." }
     ],
       "social": {
         "twitter": "https://twitter.com/marcoporchile",
