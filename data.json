@@ -146,3 +146,81 @@
     }
   ]
 }
+=======
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Evelyn Matthei",
+      "party": "Unión Demócrata Independiente (UDI)",
+      "coalition": "Chile Vamos",
+      "age": 68,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Evelyn_Matthei_en_La_Moneda_2024.jpg/800px-Evelyn_Matthei_en_La_Moneda_2024.jpg",
+      "bio": "Economista y política con una larga trayectoria en el servicio público. Ha sido Ministra del Trabajo y Previsión Social, Ministra Secretaria General de la Presidencia, senadora, diputada y alcaldesa de Providencia. Su carrera se ha caracterizado por un enfoque en la gestión fiscal, el orden público y la modernización del Estado.",
+      "proposals": [
+        { "title": "Seguridad y Orden Público", "description": "Fortalecimiento de las policías, modernización del sistema de inteligencia y una política de 'mano dura' contra la delincuencia y el crimen organizado." },
+        { "title": "Crecimiento Económico", "description": "Plan de reactivación económica basado en la inversión privada, desregulación y incentivos tributarios para la creación de empleos." },
+        { "title": "Reforma del Estado", "description": "Reducción de la burocracia, digitalización de servicios y mayor eficiencia en el gasto público." }
+      ],
+      "social": {
+        "twitter": "https://twitter.com/evelynmatthei",
+        "instagram": "https://www.instagram.com/evelynmatthei/"
+      }
+    },
+    {
+      "id": 2,
+      "name": "José Antonio Kast",
+      "party": "Partido Republicano",
+      "coalition": "Republicanos",
+      "age": 59,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jos%C3%A9_Antonio_Kast_visi%C3%B3n_presidencial_de_Chile_en_Icare_2021.jpg/800px-Jos%C3%A9_Antonio_Kast_visi%C3%B3n_presidencial_de_Chile_en_Icare_2021.jpg",
+      "bio": "Abogado y político, fundador del Partido Republicano. Ha sido diputado por el distrito 24. Su plataforma política se centra en la defensa de los valores tradicionales, el orden público, la soberanía nacional y una economía de libre mercado con un Estado reducido.",
+      "proposals": [
+        { "title": "Control Migratorio y Fronteras", "description": "Implementación de una política migratoria estricta, con foco en la expulsión de inmigrantes ilegales y mayor control fronterizo." },
+        { "title": "Defensa de Valores", "description": "Protección de la familia como núcleo fundamental de la sociedad y defensa de la vida desde la concepción." },
+        { "title": "Libertad Económica", "description": "Reducción drástica de impuestos, eliminación de trabas para el emprendimiento y fomento de un mercado sin intervención estatal." }
+      ],
+      "social": {
+        "twitter": "https://twitter.com/joseantoniokast",
+        "instagram": "https://www.instagram.com/joseantoniokast/"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Camila Vallejo",
+      "party": "Partido Comunista (PC)",
+      "coalition": "Apruebo Dignidad",
+      "age": 37,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Camila_Vallejo_Dowling_en_2023.jpg/800px-Camila_Vallejo_Dowling_en_2023.jpg",
+      "bio": "Geógrafa y política. Saltó a la fama como una de las líderes del movimiento estudiantil de 2011. Ha sido diputada y Ministra Secretaria General de Gobierno. Su carrera se ha enfocado en la lucha por la justicia social, la ampliación de derechos y el fortalecimiento de los servicios públicos.",
+      "proposals": [
+        { "title": "Reforma al Sistema de Pensiones", "description": "Creación de un nuevo sistema de pensiones público y solidario que reemplace al actual sistema de AFP." },
+        { "title": "Fortalecimiento de la Educación y Salud Pública", "description": "Aumento significativo del presupuesto para la educación y la salud, con el objetivo de garantizar el acceso universal y gratuito." },
+        { "title": "Nuevo Modelo de Desarrollo Sostenible", "description": "Transición hacia una economía verde, con mayor protección del medio ambiente y un enfoque en la justicia social." }
+      ],
+      "social": {
+        "twitter": "https://twitter.com/camilantoniamar",
+        "instagram": "https://www.instagram.com/camilantoniamar/"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Mario Desbordes",
+      "party": "Renovación Nacional (RN)",
+      "coalition": "Chile Vamos",
+      "age": 57,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mario_Desbordes_en_el_Ministerio_de_Defensa_-_28_de_julio_de_2020.jpg/800px-Mario_Desbordes_en_el_Ministerio_de_Defensa_-_28_de_julio_de_2020.jpg",
+      "bio": "Ex carabinero y político. Ha sido diputado, Ministro de Defensa Nacional y presidente de Renovación Nacional. Su perfil combina un fuerte énfasis en la seguridad pública con una orientación social, buscando representar a un sector más de centro dentro de su coalición.",
+      "proposals": [
+        { "title": "Seguridad con Enfoque Social", "description": "Aumento de la dotación policial y equipamiento, combinado con programas de prevención del delito en barrios vulnerables." },
+        { "title": "Acuerdos Nacionales", "description": "Búsqueda de grandes acuerdos en temas clave como pensiones, salud y educación, promoviendo el diálogo entre sectores políticos." },
+        { "title": "Apoyo a la Clase Media y Pymes", "description": "Políticas de alivio tributario y acceso a créditos para la clase media y las pequeñas y medianas empresas." }
+      ],
+      "social": {
+        "twitter": "https://twitter.com/desbordes",
+        "instagram": "https://www.instagram.com/desbordes/"
+      }
+    }
+  ]
+}
+>>>>>>> df398ac82cf089ef1f1ddc6bbb794321cd9d146d
