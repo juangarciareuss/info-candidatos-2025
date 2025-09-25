@@ -18,7 +18,6 @@
 </head>
 <body class="text-gray-800 antialiased">
 
-    <!-- Encabezado -->
     <header class="bg-white shadow-md sticky top-0 z-10">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
             <h1 class="text-2xl font-bold text-blue-700 cursor-pointer" onclick="showGrid()">InfoCandidatos 2025</h1>
@@ -26,36 +25,28 @@
         </div>
     </header>
 
-    <!-- Contenedor Principal -->
     <main class="container mx-auto p-4 sm:p-6 lg:p-8 relative min-h-screen">
 
-        <!-- Vista de la Grilla de Candidatos -->
         <div id="grid-view" class="view-transition view-visible">
             <div class="mb-6 text-center">
-                 <h2 class="text-4xl font-extrabold mb-2 text-gray-900">Candidatos Presidenciales</h2>
+                <h2 class="text-4xl font-extrabold mb-2 text-gray-900">Candidatos Presidenciales</h2>
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">Selecciona hasta 4 candidatos para comparar sus propuestas clave.</p>
                 <div class="mt-6">
                     <input type="text" id="searchInput" placeholder="Buscar por nombre, partido o coalición..." class="w-full max-w-lg p-3 border border-gray-300 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition mx-auto">
                 </div>
             </div>
             <div id="candidate-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-                <!-- Tarjetas de candidatos -->
-            </div>
+                </div>
         </div>
 
-        <!-- Vista del Perfil Detallado del Candidato -->
         <div id="profile-view" class="view-transition view-hidden">
-            <!-- Contenido del perfil -->
-        </div>
+            </div>
 
-        <!-- Vista de Comparación -->
         <div id="comparison-view" class="view-transition view-hidden">
-            <!-- Tabla de comparación -->
-        </div>
+            </div>
 
     </main>
     
-    <!-- Panel de Comparación Flotante -->
     <div id="compare-tray" class="fixed bottom-0 left-0 right-0 bg-white/95 backdrop-blur-sm border-t border-gray-200 p-4 transform translate-y-full transition-transform duration-300 z-20">
         <div class="container mx-auto flex justify-between items-center">
             <div>
@@ -68,7 +59,6 @@
         </div>
     </div>
 
-    <!-- Pie de Página -->
     <footer class="bg-white mt-12 py-6 border-t">
         <div class="container mx-auto text-center text-gray-500">
             <p>&copy; 2025 InfoCandidatos Chile. Un proyecto cívico independiente.</p>
@@ -116,7 +106,6 @@
         };
         
         const showProfile = (id) => {
-             // ... (La función showProfile es la misma que la versión anterior)
             const candidate = allCandidates.find(c => c.id === id);
             if (!candidate) return;
             const proposalsHtml = candidate.proposals.map(p => `<div class="bg-gray-50 p-4 rounded-lg border border-gray-200"><h4 class="font-semibold text-gray-800">${p.title}</h4><p class="text-gray-600 text-sm mt-1">${p.description}</p></div>`).join('');
@@ -243,4 +232,3 @@
     </script>
 </body>
 </html>
-
